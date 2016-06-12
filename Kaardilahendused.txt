@@ -1,0 +1,22 @@
+
+Gradient üle google mapsi
+http://codepen.io/mattsince87/pen/LAbqG
+
+Infobox
+http://codepen.io/emgerold/pen/kjivC
+
+Infobox - styled
+http://codepen.io/Marnoto/pen/xboPmG
+
+Infowindow - tutorial
+http://michaelsoriano.com/customize-google-map-info-windows-infobox/
+
+Another example
+
+http://www.umaitech.com/sand/example_map_clearbox.html
+
+Google maps ametlik api
+https://developers.google.com/maps/documentation/javascript/infowindows#add
+
+Erinevad kaardid
+https://www.mapbox.com/gallery/#
