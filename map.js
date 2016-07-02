@@ -4,4 +4,6 @@
           center: {lat: 59.0038222, lng: 23.1821927},
           zoom: 12
         });
+		map.data.loadGeoJson('Vormsi.json');
       }
+	  
