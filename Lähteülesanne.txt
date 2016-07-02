@@ -1,0 +1,16 @@
+
+Kaart:
+Avab väikese infowindow
+Sellel vajutades saab suurelt fotosid
+Kaart ei liigu
+
+Features
+Lokaliseerib kaardi asukoha järgi.
+Responsive
+Salvestab lemmikfotod
+
+
+Märgib ära ja 
+Sisselogimine läbi facebooki ja gmaili
+Genereerib eraldi lingiga kaardi, mille saad salvestada google mapsi kaartidesse.
+
