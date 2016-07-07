@@ -16,10 +16,15 @@
     </style>
   </head>
   <body>
+  <div id="tryout"></div>
+	<div>Katsetan</div>
     <div id="map"></div>
+	
     <script src="map.js">
     </script>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB_zoqTC-7l9cC-nbSTQK4yfhJF-b4JROw&callback=initMap"
     async defer></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+	<script>$("#tryout").load("infowindow.html"); </script>
   </body>
 </html>
